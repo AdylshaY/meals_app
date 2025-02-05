@@ -29,7 +29,7 @@ Meals App is a Flutter project that provides a collection of meal recipes. Users
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/meals_app.git
+   git clone https://github.com/AdylshaY/meals_app.git
    ```
 2. Navigate to the project directory:
    ```sh
